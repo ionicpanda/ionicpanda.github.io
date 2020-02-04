@@ -1,0 +1,19 @@
+I"¿<h1 id="projects-for-2020">Projects for 2020</h1>
+<p>This is a list of the various projects I hope to complete this year.</p>
+
+<h2 id="custom-encoders">Custom Encoders</h2>
+<p>Create various automated encoders that will help me evade antivirus and help test security products in various networks</p>
+
+<h2 id="contribute-to-owasp-zap">Contribute to OWASP ZAP</h2>
+<p>This year I am going to contribute to the OWASP ZAP web application security testing tool</p>
+
+<h2 id="windows-debugger">Windows Debugger</h2>
+<p>I plan on writing a debugger for exploit development in order to learn more C# and have a personal debugger to identify exploits.</p>
+
+<h2 id="osint-collection">OSINT Collection</h2>
+<p>Iâ€™m working on developing an open source tool to automate the OSINT collection process for threat hunting</p>
+
+<h2 id="c2-framework">C2 Framework</h2>
+<p>Currently in the process of developing my own command and control framework for penetration testing</p>
+
+:ET
